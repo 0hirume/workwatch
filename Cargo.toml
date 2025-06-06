@@ -2,6 +2,12 @@
 name = "workwatch"
 version = "0.1.0"
 edition = "2024"
+description = "Terminal-based time tracking tool written in Rust, featuring a TUI (Text-based User Interface) powered by ratatui, with support for activity logging, real-time elapsed time tracking, and webhook-based notifications."
+readme = "README.md"
+homepage = "https://github.com/rodriguezjasonlloyd/workwatch/"
+repository = "https://github.com/rodriguezjasonlloyd/workwatch/"
+license = "MIT"
+
 
 [dependencies]
 chrono = "0.4.41"
